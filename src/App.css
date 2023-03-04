@@ -1,0 +1,22 @@
+#root {
+  width: 100%;
+  margin: 0 auto;
+  /* padding: 2rem; */
+  text-align: center;
+}
+body{
+  margin:0;
+}
+.mobilelist{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-around;
+}
+.mobile-img{
+  object-fit: cover;
+  height: 200px;
+}
+.button{
+  text-align: center;
+}
